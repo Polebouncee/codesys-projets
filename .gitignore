@@ -1,0 +1,9 @@
+
+*.compileinfo
+*.crc
+*.app
+*.bootapp
+*.cr
+*.ri
+boot/
+__MACOSX/
