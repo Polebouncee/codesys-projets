@@ -1,9 +1,11 @@
-
 *.compileinfo
 *.crc
 *.app
 *.bootapp
 *.cr
 *.ri
+*.opt
+*.~u
+*_project.precompilecache
 boot/
 __MACOSX/
